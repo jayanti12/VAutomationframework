@@ -32,6 +32,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="C:/Users/jayan/.m2/repository/io/cucumber/cucumber-core/7.3.4/cucumber-core-7.3.4.jar" sourcepath="C:/Users/jayan/.m2/repository/io/cucumber/cucumber-core/7.3.4/cucumber-core-7.3.4-sources.jar">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
@@ -41,5 +42,8 @@
 			<attribute name="maven.scope" value="compile"/>
 		</attributes>
 	</classpathentry>
+=======
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+>>>>>>> branch 'master' of https://github.com/jayanti12/VAutomationframework.git
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

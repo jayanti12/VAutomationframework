@@ -1,5 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
+<<<<<<< HEAD
   <groupId>wipro</groupId>
   <artifactId>cucumberframework</artifactId>
   <version>0.0.1-SNAPSHOT</version>
@@ -55,4 +56,10 @@
 
 
   </dependencies>
+=======
+  <groupId>Balaram</groupId>
+  <artifactId>Balaram</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  
+>>>>>>> branch 'master' of https://github.com/jayanti12/VAutomationframework.git
 </project>
